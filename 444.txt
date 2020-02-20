@@ -1,0 +1,8 @@
+
+git config --global user.name "vacationsms"
+git config --global user.email "1013358644@qq.com"
+
+git remote add origin git@github.com:vacationsms/learngit.git
+
+
+ssh-keygen -t rsa -C "1013358644@qq.com"
